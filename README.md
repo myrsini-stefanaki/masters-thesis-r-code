@@ -5,8 +5,8 @@ R scripts and datasets used for my Master's thesis analysis.
 This repository contains the R code and dataset used for my master's thesis, which examines how **publicity** and its relationship with **advertising uncertainty** affect **pre-release buzz** and **box office revenue** in the movie industry. 
 
 The analysis includes:  
-- **Data collection and cleaning** from online sources (Google Trends, YouTube, Reddit, Box Office Mojo).  
-- **Correlation analysis** to explore theory-backed relationships.  
+- **Data collection and cleaning** from online sources (Google Trends, YouTube, Reddit, IMDb).  
+- **Correlation analysis** to explore theory-based relationships.  
 - **Regression models** including **moderation** to measure the impact of publicity and advertising uncertainty on audience engagement and revenue.
 - **Visualizations** to highlight the results
 - **Assumption testing** to verify the results 
