@@ -21,13 +21,17 @@ The analysis includes:
 ## How to Run the Code 
 
 1. Download the repository
-   - Click **Code → Download ZIP**, or  
+   - Select thesis_data.csv and click **Download Raw File**
+   - Select clean_thesis_code.R and click **Download Raw File**
+   - **OR**, Select masters_thesis_notebook.Rmd and click **Download Raw File** to run in **R Studio**
+
+   Alternatively:
    - Clone it using Git:  
      ```bash
      git clone https://github.com/myrsini-stefanaki/masters-thesis-r-code.git
      cd masters-thesis-r-code
      ```
-2. Open the `.Rmd` file in RStudio
+2. Open the `.Rmd` file in RStudio or the `.R` file in Base R or another compatible console.
 
 3. Ensure required libraries are installed before they are run.
   
