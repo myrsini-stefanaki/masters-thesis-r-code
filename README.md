@@ -34,4 +34,9 @@ The analysis includes:
 2. Open the `.Rmd` file in RStudio or the `.R` file in Base R or another compatible console.
 
 3. Ensure required libraries are installed before they are run.
+
+## 📩 Contact  
+If you have any questions or would like to discuss this research further, feel free to reach out on **LinkedIn**:  
+🔗 [Myrsini Stefanaki](https://www.linkedin.com/in/myrsini-stefanaki-b0a031100/)
+
   
