@@ -1,4 +1,4 @@
-# masters-thesis-r-code
+# Master's Thesis Research Analysis using R
 R scripts and datasets used for my Master's thesis analysis.
 
 ## About This Repository
